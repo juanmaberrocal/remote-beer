@@ -23,6 +23,7 @@ gem 'coffee-rails', '~> 4.2'
 
 # Use Devise token authentication
 gem 'devise_token_auth'
+gem 'omniauth'
 
 # Use CSRF tokens for AngularJS $http
 gem 'angular_rails_csrf'
