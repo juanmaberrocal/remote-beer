@@ -25,3 +25,10 @@
 //
 // Authentication
 //= require ng-token-auth
+//
+// Application
+//= require app
+//
+// Templates
+//= require_tree ../templates/layouts/
+//= require_tree ../templates/root/
